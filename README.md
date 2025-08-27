@@ -12,11 +12,6 @@
 
 ---
 
-### 🔧 Currently Working On
-🎯 Building **Social Sway**, a platform connecting content creators & brands — working as a **Full Stack Developer (in a startup role)** while learning backend hands-on.
-
----
-
 ### 🌐 Live Projects
 Here are some of my live deployed frontend projects:
 
